@@ -57,6 +57,7 @@ CREATE TABLE `passenger` (
   `name` varchar(40) NOT NULL,
   `email` varchar(32) NOT NULL,
   `mobile` bigint(20) NOT NULL,
+  `password` varchar(20) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `username` (`username`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -175,4 +176,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-02-26  2:32:31
+-- Dump completed on 2019-02-26  8:20:59
