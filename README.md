@@ -2,7 +2,7 @@
 Explore things
 # Getting Started
 These will provide you solutions for the below issues
-1)Write A python program that convert PDF files in to HTML files and HTML files in to PDF__
+1)Write A python program that convert PDF files in to HTML files and HTML files in to PDF<br />
 input:- html file out_
 output :- Converted pdf file path
 2)Write a program that take a JSON as a input and return a json with removing empty values keys
