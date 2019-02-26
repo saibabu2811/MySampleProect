@@ -17,10 +17,10 @@ python 3.6.7 <br  />
 virtualenv 15.1.0<br>
 # Clone GitHub Repo
 git clone https://github.com/saibabu2811/MySampleProject.git <br>
-These will clone the copy in Proect folder.
+These will clone the copy in Project folder.
 # Activate Virtualenv
 
-Enter 'cd <project folder>' and activate virtual environment with the below command<br> 
+Enter 'cd project folder' and activate virtual environment with the below command<br> 
 #### source env_edge/bin/activate
 
 # Run commands
