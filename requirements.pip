@@ -4,7 +4,7 @@ pdbpp==0.9.6
 pdfkit==0.6.1
 pdfminer.six==20181108
 pdftotext==2.1.1
-wkhtmltopdf == 0.3 
+wkhtmltopdf == 0.2 
 chardet==3.0.4
 
 
