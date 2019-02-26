@@ -12,5 +12,11 @@ output:-{"name": "Edge Networks", "Employee": 101,  "address": [{}, {}, "Bengalo
 # Prerequisites
 System : Ubuntu 18.04 LTS
 
+# Installing
+python 3.6.7
+virtualenv 15.1.0
+
+
+
 
 
