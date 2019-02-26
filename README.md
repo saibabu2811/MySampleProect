@@ -39,7 +39,7 @@ Enter 'cd {project folder}'
 # SQL schema for Bus Booking mobile app
 
 #### Install sql server
-Reference: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+Reference: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04 <br>
 --brs.sql is the generated dump file. we can test on importing file to local database 
 
 
