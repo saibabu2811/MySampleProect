@@ -16,11 +16,11 @@ System : Ubuntu 18.04 LTS
 python 3.6.7 <br  />
 virtualenv 15.1.0<br>
 # Clone GitHub Repo
-https://github.com/saibabu2811/MySampleProject.git <br>
+git clone https://github.com/saibabu2811/MySampleProject.git <br>
 These will clone the copy in Proect folder.
 # Activate Virtualenv
 activatee virtualenv <br>
-####source env_edge/bin/activate
+#### source env_edge/bin/activate
 
 
 
