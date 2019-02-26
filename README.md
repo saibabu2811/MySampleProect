@@ -1,5 +1,5 @@
 # MySampleProject
-Explore things
+Explore knowledge
 # Getting Started
 These will provide you solutions for the below issues<br />
 1)Write A python program that convert PDF files in to HTML files and HTML files in to PDF<br />
@@ -23,7 +23,7 @@ These will clone the copy in Project folder.
 
 # Activate Virtualenv
 Activate virtual environment with the below command<br> 
-#### source env_edge/bin/activate
+#### source {environment_name}/bin/activate
 
 # Install  requirements.pip 
 Enter 'cd {project folder}'
