@@ -9,5 +9,8 @@ output :- Converted pdf file path<br />
 input :- {"name": "Edge Networks", "Employee": 101, "phone": {"local": {"mobile": {}}}, "address": [{}, {}, "Bengalore"], "skills": {"java": 10, "python": 0, html: ""}}<br />
 output:-{"name": "Edge Networks", "Employee": 101,  "address": [{}, {}, "Bengalore"], "skills": {"java": 10, "python": 0}}<br />
 3)Make the SQL schema for Bus Booking mobile app.<br />
+# Prerequisites
+System : Ubuntu 18.04 LTS
+
 
 
