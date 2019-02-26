@@ -19,7 +19,7 @@ virtualenv 15.1.0<br>
 git clone https://github.com/saibabu2811/MySampleProject.git <br>
 These will clone the copy in Project folder.
 # Create Virtual environment
-#### virtualenv {environment_name}
+#### virtualenv {environment_name} --python=python3
 
 # Activate Virtualenv
 Activate virtual environment with the below command<br> 
@@ -27,7 +27,7 @@ Activate virtual environment with the below command<br>
 
 # Install  requirements.pip 
 Enter 'cd {project folder}'
-##### pip install -R requirements.pip
+##### pip install -r requirements.pip
 
 # Run commands
 --Write A python program that convert PDF files in to HTML files and HTML files in to PDF
