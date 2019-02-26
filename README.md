@@ -36,6 +36,13 @@ Enter 'cd {project folder}'
 --Write a program that take a JSON as a input and return a json with removing empty values keys
 #### python remove_empty.py
 
+# SQL schema for Bus Booking mobile app
+
+#### Install sql server
+Reference: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+--brs.sql is the generated dump file. we can test on importing file to local database 
+
+
 
 
 
