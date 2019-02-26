@@ -19,8 +19,21 @@ virtualenv 15.1.0<br>
 git clone https://github.com/saibabu2811/MySampleProject.git <br>
 These will clone the copy in Proect folder.
 # Activate Virtualenv
-activatee virtualenv <br>
+
+Enter cd project folder and activate virtual environment<br> 
 #### source env_edge/bin/activate
+
+# Run commands
+--Write A python program that convert PDF files in to HTML files and HTML files in to PDF
+#### python conversion.py
+
+--Write a program that take a JSON as a input and return a json with removing empty values keys
+#### python remove_empty.py
+
+
+
+
+
 
 
 
