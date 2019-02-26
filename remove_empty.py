@@ -33,7 +33,7 @@ try:
     except AttributeError:
         print("Oops! Please check your Json data.  Try again...")
 except:
-    print("Oops! Unable to open Json file.  Try again...")
+    print("Oops! Unable to open file.  Try again...")
 
 
 
