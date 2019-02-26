@@ -17,7 +17,7 @@ python 3.6.7 <br  />
 virtualenv 15.1.0<br>
 # GitHub Repo
 git clone https://github.com/saibabu2811/MySampleProject.git <br>
-These will clone the copy in Project folder.
+These will clone the Project folder.
 # Create Virtual environment
 #### virtualenv {environment_name} --python=python3
 
