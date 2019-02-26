@@ -40,7 +40,7 @@ Enter 'cd {project folder}'
 
 #### Install sql server
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04 <br>
---brs.sql is the generated dump file. we can test on importing file to local database 
+brs.sql is the generated dump file. Test by importing file to local sql database 
 
 
 
